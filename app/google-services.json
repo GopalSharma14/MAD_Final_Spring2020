@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "651445710147",
+    "firebase_url": "https://spring2020finale.firebaseio.com",
+    "project_id": "spring2020finale",
+    "storage_bucket": "spring2020finale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651445710147:android:97964bce0fc7e094e053f6",
+        "android_client_info": {
+          "package_name": "com.example.spring2020_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651445710147-gu57pdo4hrkjovnsdg17a0anr35tk81i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyrOMPxPqpds9bk2I2DrJ7h-XGBgHh2EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651445710147-gu57pdo4hrkjovnsdg17a0anr35tk81i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
